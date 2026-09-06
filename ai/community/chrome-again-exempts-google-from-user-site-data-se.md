@@ -13,13 +13,14 @@ collected_at: '2026-09-06T17:44:15.787432+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:chrome-again-exempts-google-from-user-site-data-se
 first_seen: '2026-09-06T10:18:34.624254+05:30'
 last_seen: '2026-09-06T17:44:15.787432+05:30'
 last_checked: '2026-09-06T17:44:15.787432+05:30'
 health_score: 100
 ---
+
 
 # Chrome again exempts Google from user site data settings
 

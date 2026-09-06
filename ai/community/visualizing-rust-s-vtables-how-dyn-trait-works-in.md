@@ -13,13 +13,14 @@ collected_at: '2026-09-06T17:44:16.531755+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:visualizing-rust-s-vtables-how-dyn-trait-works-in
 first_seen: '2026-09-05T23:54:57.176696+05:30'
 last_seen: '2026-09-06T17:44:16.531755+05:30'
 last_checked: '2026-09-06T17:44:16.531755+05:30'
 health_score: 100
 ---
+
 
 # Visualizing Rust's Vtables: How dyn Trait Works In Memory
 

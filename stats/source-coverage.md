@@ -4,8 +4,15 @@ Distribution of original signal ingestion sources across processed URLs:
 
 | Source Domain | Resource Count |
 | :--- | ---: |
+<<<<<<< Updated upstream
 | arxiv | 21710 |
 | github | 1015 |
+=======
+| arxiv | 21709 |
+| github | 1016 |
+| huggingface | 911 |
+| nextjs.org | 77 |
+>>>>>>> Stashed changes
 | youtube | 66 |
 | semanticscholar.org | 63 |
 | support.google.com | 59 |
@@ -32,11 +39,11 @@ Distribution of original signal ingestion sources across processed URLs:
 | cloudflare.com | 9 |
 | docs.unity3d.com | 9 |
 | docs.langchain.com | 8 |
+| medium.com | 8 |
 | play.google.com | 8 |
 | ico.org.uk | 8 |
 | research.google | 8 |
 | apps.apple.com | 8 |
-| medium.com | 7 |
 | ai.google.dev | 7 |
 | creativecommons.org | 7 |
 | help.medium.com | 7 |
@@ -163,7 +170,10 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
+<<<<<<< Updated upstream
 | nextjs.org | 3 |
+=======
+>>>>>>> Stashed changes
 | martinuke0.github.io | 2 |
 | git-scm.com | 2 |
 | barchart.com | 2 |
@@ -304,10 +314,12 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | collusion.wiki | 1 |
-| lapcatsoftware.com | 1 |
-| sofiabelen.github.io | 1 |
 | ben-evans.com | 1 |
+<<<<<<< Updated upstream
 | pragatimehraa.medium.com | 1 |
+=======
+| beza1e1.tuxen.de | 1 |
+>>>>>>> Stashed changes
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |
