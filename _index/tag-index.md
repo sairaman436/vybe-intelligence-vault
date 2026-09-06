@@ -5393,6 +5393,7 @@ Resources organized by keyword tags.
   - [Wan-Streamer v0.2: Higher Resolution, Same Latency](../ai/agents/arxiv-2607-04443.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
   - [WaymoQA: A Multi-View Visual Question Answering Dataset for Safety-Critical Reasoning in Autonomous Driving](../ai/rag/arxiv-2511-20022.md)
+  - [We monitor internal coding agents for misalignment](../ai/community/we-monitor-internal-coding-agents-for-misalignment.md)
   - [We now support VLMs in smolagents!](../ai/agents/huggingface-blog-smolagents-can-see.md)
   - [WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents](../ai/rag/arxiv-2608-28062.md)
   - [WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks](../ai/agents/arxiv-2608-03499.md)
@@ -5949,10 +5950,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI, Tools and Transformation](../ai/community/ai-tools-and-transformation.md)
   - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
-  - [Fileregister: Tagging and reference layer for your files, in plain text](../ai/community/rhsev-fileregister.md)
-  - [I Feel about AI](../ai/community/i-feel-about-ai.md)
+  - [Research acceleration: The view inside OpenAI](../ai/community/research-acceleration-the-view-inside-openai.md)
 
 ## animation
 
@@ -24024,7 +24023,6 @@ Resources organized by keyword tags.
   - [AI, Brain Death Detection, and Islamic Law](../ai/research/arxiv-2608-16903.md)
   - [AI, ML and Data Science Tutorial - GeeksforGeeks](../ai/agents/ai-ml-and-data-science-tutorial-geeksforgeeks.md)
   - [AI, Machine Learning, and Data-Driven Decisions | Cornell Duffield Engineering](../ai/agents/ai-machine-learning-and-data-driven-decisions-corn.md)
-  - [AI, Tools and Transformation](../ai/community/ai-tools-and-transformation.md)
   - [AI-Augmented Human Resource Management? Insights from German companies](../ai/research/arxiv-2607-13839.md)
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
   - [AI-Driven Test Case Generation from Natural Language Requirements: A Survey of Techniques and Research Gaps](../ai/research/arxiv-2606-06563.md)
@@ -24998,7 +24996,6 @@ Resources organized by keyword tags.
   - [Fiber Fingerprints of Hidden Learning-State Dynamics](../ai/research/arxiv-2608-15976.md)
   - [Fighting child sexual abuse online](../ai/rag/fighting-child-sexual-abuse-online.md)
   - [FileMaker AI Integration Specialists | Transforming Digital](../ai/rag/filemaker-ai-integration-specialists-transforming.md)
-  - [Fileregister: Tagging and reference layer for your files, in plain text](../ai/community/rhsev-fileregister.md)
   - [FilmBench: A Film-Grade Benchmark for Cinematic Video Generation](../ai/agents/arxiv-2607-24241.md)
   - [FinP: Fairness-in-Privacy in Federated Learning by Addressing Disparities in Privacy Risk](../ai/research/arxiv-2502-17748.md)
   - [Financial Audit Assistance using Misinformation Detection and Explanation](../ai/research/arxiv-2607-17797.md)
@@ -25369,7 +25366,6 @@ Resources organized by keyword tags.
   - [Hybrid-Field Sparse Channel Representation and Recovery for XL-RIS-Assisted mmWave MIMO Systems](../ai/rag/arxiv-2608-00052.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
-  - [I Feel about AI](../ai/community/i-feel-about-ai.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IBAN-Prüfer: Validierung der internationalen Kontonummer](../ai/resources/iban-prufer-validierung-der-internationalen-konton.md)
@@ -26339,6 +26335,7 @@ Resources organized by keyword tags.
   - [Reproducing Human Individual Motor Signatures: A Data-Driven Approach for Repetitive Motion](../ai/agents/arxiv-2503-15225.md)
   - [Research Assistant: AstraZeneca's Agentic System for R&D](../ai/agents/arxiv-2608-12395.md)
   - [Research Policy Handbook | DoResearch](../ai/agents/research-policy-handbook-doresearch.md)
+  - [Research acceleration: The view inside OpenAI](../ai/community/research-acceleration-the-view-inside-openai.md)
   - [Research on Cross-media Science and Technology Information Data Retrieval](../ai/research/arxiv-2204-04887.md)
   - [Research on Domain Information Mining and Theme Evolution of Scientific Papers](../ai/research/arxiv-2204-08476.md)
   - [Research on Intellectual Property Resource Profile and Evolution Law](../ai/research/arxiv-2204-06221.md)
@@ -27057,6 +27054,7 @@ Resources organized by keyword tags.
   - [Watch your steps: Dormant Adversarial Behaviors that Activate upon LLM Finetuning](../ai/research/arxiv-2505-16567.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
+  - [We monitor internal coding agents for misalignment](../ai/community/we-monitor-internal-coding-agents-for-misalignment.md)
   - [Weaviate Database | Weaviate Documentation](../ai/rag/weaviate-database-weaviate-documentation.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
@@ -34412,6 +34410,7 @@ Resources organized by keyword tags.
   - [Rehan-Ul-Haq/openai-agents-sdk-tutorial](../ai/agents/rehan-ul-haq-openai-agents-sdk-tutorial.md)
   - [Release policy - Docs by LangChain](../ai/agents/release-policy-docs-by-langchain.md)
   - [Replit – Build apps and sites with AI - Replit](../ai/rag/replit-build-apps-and-sites-with-ai-replit.md)
+  - [Research acceleration: The view inside OpenAI](../ai/community/research-acceleration-the-view-inside-openai.md)
   - [Research | OpenAI](../ai/rag/research-openai.md)
   - [Resources - Linux Foundation - Education](../ai/rag/resources-linux-foundation-education.md)
   - [Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain](../ai/rag/rag-with-deep-agents-docs-by-langchain.md)
@@ -34546,6 +34545,7 @@ Resources organized by keyword tags.
   - [Visual Studio Code - The open source AI code editor | Your home for multi-agent development](../ai/agents/visual-studio-code-the-open-source-ai-code-editor.md)
   - [Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility](../ai/research/arxiv-2608-26449.md)
   - [WavePhaseNet: A DFT-Based Method for Constructing Semantic Conceptual Hierarchy Structures (SCHS)](../ai/research/arxiv-2602-14419.md)
+  - [We monitor internal coding agents for misalignment](../ai/community/we-monitor-internal-coding-agents-for-misalignment.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
   - [Welcome - GraphRAG](../ai/rag/welcome-graphrag.md)
   - [Welcome GPT OSS, the new open-source model family from OpenAI!](../ai/models/huggingface-blog-welcome-openai-gpt-oss.md)
@@ -58067,4 +58067,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-06T21:20:58.702274+05:30*
+*Index generated on 2026-09-07T00:11:39.390915+05:30*

@@ -22591,10 +22591,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI, Tools and Transformation](../ai/community/ai-tools-and-transformation.md)
   - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
-  - [Fileregister: Tagging and reference layer for your files, in plain text](../ai/community/rhsev-fileregister.md)
-  - [I Feel about AI](../ai/community/i-feel-about-ai.md)
+  - [Research acceleration: The view inside OpenAI](../ai/community/research-acceleration-the-view-inside-openai.md)
+  - [We monitor internal coding agents for misalignment](../ai/community/we-monitor-internal-coding-agents-for-misalignment.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -26449,4 +26448,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-06T21:20:58.991269+05:30*
+*Index generated on 2026-09-07T00:11:39.678147+05:30*

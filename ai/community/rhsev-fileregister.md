@@ -13,13 +13,14 @@ collected_at: '2026-09-06T21:04:49.617910+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:rhsev/fileregister
 first_seen: '2026-09-06T21:04:49.617910+05:30'
 last_seen: '2026-09-06T21:04:49.617910+05:30'
 last_checked: '2026-09-06T21:04:49.617910+05:30'
 health_score: 100
 ---
+
 
 # Fileregister: Tagging and reference layer for your files, in plain text
 
