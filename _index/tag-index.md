@@ -3483,6 +3483,7 @@ Resources organized by keyword tags.
   - [OEIS Open: How many conjectures can language models turn into theorems?](../ai/agents/arxiv-2608-11941.md)
   - [OGR-MARL: Option-Guided Residual Multi-Agent Reinforcement Learning for Heterogeneous USV Cooperative Pursuit in Constrained Port Waterways](../ai/agents/arxiv-2608-12995.md)
   - [OGX: An Open-Source, Vendor-Neutral Generative AI Application Server](../ai/rag/arxiv-2608-14580.md)
+  - [OKF Agent Memory – Git-native persistent memory for AI coding agents](../ai/community/okf-memory-okf-agent-memory.md)
   - [OMAC: A Holistic Optimization Framework for LLM-Based Multi-Agent Collaboration](../ai/agents/arxiv-2505-11765.md)
   - [OODBench: Out-of-Distribution Benchmark for Large Vision-Language Models](../ai/agents/arxiv-2602-18094.md)
   - [OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis](../ai/rag/arxiv-2607-25108.md)
@@ -5949,9 +5950,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI handles incidents, engineers lose touch with their systems](../ai/community/ai-handles-incidents-engineers-lose-touch-with-the.md)
+  - [AI, Tools and Transformation](../ai/community/ai-tools-and-transformation.md)
   - [Can AI design circuit boards yet?](../ai/community/can-ai-design-circuit-boards-yet.md)
+  - [Chrome again exempts Google from user site data settings](../ai/community/chrome-again-exempts-google-from-user-site-data-se.md)
   - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
+  - [OKF Agent Memory – Git-native persistent memory for AI coding agents](../ai/community/okf-memory-okf-agent-memory.md)
   - [Visualizing Rust's Vtables: How dyn Trait Works In Memory](../ai/community/visualizing-rust-s-vtables-how-dyn-trait-works-in.md)
 
 ## animation
@@ -24015,7 +24018,6 @@ Resources organized by keyword tags.
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
-  - [AI handles incidents, engineers lose touch with their systems](../ai/community/ai-handles-incidents-engineers-lose-touch-with-the.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
@@ -24024,6 +24026,7 @@ Resources organized by keyword tags.
   - [AI, Brain Death Detection, and Islamic Law](../ai/research/arxiv-2608-16903.md)
   - [AI, ML and Data Science Tutorial - GeeksforGeeks](../ai/agents/ai-ml-and-data-science-tutorial-geeksforgeeks.md)
   - [AI, Machine Learning, and Data-Driven Decisions | Cornell Duffield Engineering](../ai/agents/ai-machine-learning-and-data-driven-decisions-corn.md)
+  - [AI, Tools and Transformation](../ai/community/ai-tools-and-transformation.md)
   - [AI-Augmented Human Resource Management? Insights from German companies](../ai/research/arxiv-2607-13839.md)
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
   - [AI-Driven Test Case Generation from Natural Language Requirements: A Survey of Techniques and Research Gaps](../ai/research/arxiv-2606-06563.md)
@@ -24379,6 +24382,7 @@ Resources organized by keyword tags.
   - [C2PA | Verifying Media Content Sources](../ai/resources/c2pa-verifying-media-content-sources.md)
   - [CADET: Context-Conditioned Ads CTR Prediction With a Decoder-Only Transformer](../ai/rag/arxiv-2602-11410.md)
   - [CAF-Gen: A Multi-Agent System for Enriching Argumentation Structures](../ai/agents/arxiv-2606-06646.md)
+  - [CALLE-AI/awesome-phone-call-agents](../ai/agents/calle-ai-awesome-phone-call-agents.md)
   - [CAPRA: Scaling Feedback on Software Architecture Deliverables with a Multi-Agent LLM System](../ai/agents/arxiv-2606-18976.md)
   - [CASD - Centre d'accès sécurisé aux données](../ai/rag/casd-centre-d-acces-securise-aux-donnees.md)
   - [CAW | Your Partner in Product Engineering](../ai/resources/caw-your-partner-in-product-engineering.md)
@@ -24474,6 +24478,7 @@ Resources organized by keyword tags.
   - [Chroma - YouTube](../ai/resources/chroma-youtube.md)
   - [Chroma - open-source search infrastructure for AI](../ai/rag/chroma-open-source-search-infrastructure-for-ai.md)
   - [Chrome DevTools | Chrome for Developers](../ai/rag/chrome-devtools-chrome-for-developers.md)
+  - [Chrome again exempts Google from user site data settings](../ai/community/chrome-again-exempts-google-from-user-site-data-se.md)
   - [Chrome for Developers - YouTube](../ai/resources/chrome-for-developers-youtube.md)
   - [Chromium Blog](../ai/rag/chromium-blog.md)
   - [Chronos: The AI Co-Historian](../ai/research/arxiv-2604-03553.md)
@@ -25940,6 +25945,7 @@ Resources organized by keyword tags.
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
   - [ODRA: Synthesizing Cognitive Behavioral Therapy Sessions with Structured Chain-Of-Thought and Dynamic Patient Resistance](../ai/agents/arxiv-2608-04524.md)
   - [OECC2026](../ai/rag/oecc2026.md)
+  - [OKF Agent Memory – Git-native persistent memory for AI coding agents](../ai/community/okf-memory-okf-agent-memory.md)
   - [OR-Agent: Bridging Evolutionary Search and Structured Research for Automated Algorithm Discovery](../ai/agents/arxiv-2602-13769.md)
   - [OSTIF Has Completed A Security Audit of wasmCloud! – OSTIF.org](../ai/resources/ostif-has-completed-a-security-audit-of-wasmcloud.md)
   - [OSVE: One Step Video Editing with One Step Diffusion Models](../ai/research/arxiv-2607-19895.md)
@@ -39432,6 +39438,7 @@ Resources organized by keyword tags.
   - [Azure-Samples/aisearch-openai-rag-audio](../ai/rag/azure-samples-aisearch-openai-rag-audio.md)
   - [Azure-Samples/chat-with-your-data-solution-accelerator](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md)
   - [BrandPeng/Langchain1.0-Langgraph1.0-Learning](../ai/agents/brandpeng-langchain1-0-langgraph1-0-learning.md)
+  - [CALLE-AI/awesome-phone-call-agents](../ai/agents/calle-ai-awesome-phone-call-agents.md)
   - [Chaelsoo/Zetsu](../ai/rag/chaelsoo-zetsu.md)
   - [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial.md)
   - [ChinskiKaczynski/Awesome-OpenAI-Agent-Templates](../ai/agents/chinskikaczynski-awesome-openai-agent-templates.md)
@@ -49411,7 +49418,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -50657,7 +50663,6 @@ Resources organized by keyword tags.
 
   - [AlexPEClub/ai-coding-starter-kit](../ai/agents/alexpeclub-ai-coding-starter-kit.md)
   - [Azure-Samples/azure-openai-rag-workshop-template](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md)
-  - [CALLE-AI/awesome-phone-call-agents](../ai/agents/calle-ai-awesome-phone-call-agents.md)
   - [ChrisChen667788/Your-First-LLM-Studio](../ai/agents/chrischen667788-your-first-llm-studio.md)
   - [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md)
   - [FirebaseExtended/karas-coffee](../ai/resources/firebaseextended-karas-coffee.md)
@@ -58073,4 +58078,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-06T03:54:31.156697+05:30*
+*Index generated on 2026-09-06T10:34:52.334891+05:30*

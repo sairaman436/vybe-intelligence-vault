@@ -4,24 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/CALLE-AI/awesome-phone-call-agents
-collected_at: '2026-09-03T01:01:11.429291+05:30'
-published_at: '2026-09-02T10:19:20Z'
+collected_at: '2026-09-06T10:21:48.736940+05:30'
+published_at: '2026-09-06T03:01:10Z'
 tags:
 - agents
 - github-repo
+- hackernews
+- python
 - scripts
-- typescript
-stars: 76
-language: TypeScript
+stars: 78
+language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2026-05-08T06:45:28Z'
-pushed_at: '2026-09-02T10:17:21Z'
+pushed_at: '2026-09-06T03:01:06Z'
 resource_id: github:calle-ai/awesome-phone-call-agents
-first_seen: '2026-09-03T01:01:11.429291+05:30'
-last_seen: '2026-09-03T01:01:11.429291+05:30'
-last_checked: '2026-09-03T01:01:11.429291+05:30'
+first_seen: '2026-09-06T10:21:48.736940+05:30'
+last_seen: '2026-09-06T10:21:48.736940+05:30'
+last_checked: '2026-09-06T10:21:48.736940+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository hosting portable phone-call agent skills, applications, examples, adapters, and scheduler recipes for AI agents, implemented in TypeScript.
-
-- **Metadata**: 76 stars, 190 forks, last updated on 2026-09-02T10:19:20Z.
-
-- **Focus**: Specialized in AI-driven phone-call automation, with modular components for agent integration and scheduling.
+*   Curated repository of portable AI agent skills and applications specifically for phone call automation.
+*   Includes technical recipes for agent scheduling and integration adapters for diverse operational environments.
+*   Primarily Python-based, supporting the development and deployment of phone-call AI agents.
 
 ## Why It Matters
 
@@ -42,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: CALLE-AI
-- Stars: 76
-- Forks: 190
-- Language: TypeScript
+- Stars: 78
+- Forks: 216
+- Language: Python
 - Topics: None
-- Last Updated: 2026-09-02T10:19:20Z
+- Last Updated: 2026-09-06T03:01:10Z
 - License: MIT
 - Archived: No
 - Created At: 2026-05-08T06:45:28Z
-- Pushed At: 2026-09-02T10:17:21Z
+- Pushed At: 2026-09-06T03:01:06Z
 
 ## Possible Use Cases
 

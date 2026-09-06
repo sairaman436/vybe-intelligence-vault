@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory
 hn_url: https://news.ycombinator.com/item?id=49576343
-score: 98
+score: 149
 author: torutofu
-comments_count: 10
+comments_count: 22
 published_at: '2026-09-05T19:01:05+05:30'
-collected_at: '2026-09-06T03:38:20.953116+05:30'
+collected_at: '2026-09-06T10:18:36.042411+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:visualizing-rust-s-vtables-how-dyn-trait-works-in
 first_seen: '2026-09-05T23:54:57.176696+05:30'
-last_seen: '2026-09-06T03:38:20.953116+05:30'
-last_checked: '2026-09-06T03:38:20.953116+05:30'
+last_seen: '2026-09-06T10:18:36.042411+05:30'
+last_checked: '2026-09-06T10:18:36.042411+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by torutofu. Score: 98, Comments: 10.
+Hacker News story by torutofu. Score: 149, Comments: 22.
 Original Link: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: torutofu
-- Score: 98 Upvotes
-- Comments: 10 Discussions
+- Score: 149 Upvotes
+- Comments: 22 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49576343
 - Original Article: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory
 

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://eebench.org/blog/can-ai-design-circuit-boards-yet
 hn_url: https://news.ycombinator.com/item?id=49569366
-score: 354
+score: 396
 author: iopapa
-comments_count: 203
+comments_count: 210
 published_at: '2026-09-05T01:18:29+05:30'
-collected_at: '2026-09-06T03:38:22.326462+05:30'
+collected_at: '2026-09-06T10:18:37.385686+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:can-ai-design-circuit-boards-yet
 first_seen: '2026-09-05T03:56:42.687756+05:30'
-last_seen: '2026-09-06T03:38:22.326462+05:30'
-last_checked: '2026-09-06T03:38:22.326462+05:30'
+last_seen: '2026-09-06T10:18:37.385686+05:30'
+last_checked: '2026-09-06T10:18:37.385686+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by iopapa. Score: 354, Comments: 203.
+Hacker News story by iopapa. Score: 396, Comments: 210.
 Original Link: https://eebench.org/blog/can-ai-design-circuit-boards-yet/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: iopapa
-- Score: 354 Upvotes
-- Comments: 203 Discussions
+- Score: 396 Upvotes
+- Comments: 210 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49569366
 - Original Article: https://eebench.org/blog/can-ai-design-circuit-boards-yet
 

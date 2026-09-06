@@ -22591,11 +22591,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI handles incidents, engineers lose touch with their systems](../ai/community/ai-handles-incidents-engineers-lose-touch-with-the.md)
+  - [AI, Tools and Transformation](../ai/community/ai-tools-and-transformation.md)
   - [Can AI design circuit boards yet?](../ai/community/can-ai-design-circuit-boards-yet.md)
+  - [Chrome again exempts Google from user site data settings](../ai/community/chrome-again-exempts-google-from-user-site-data-se.md)
   - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
   - [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](../ai/community/finite-time-blowup-for-an-averaged-three-dimension.md)
   - [LLMs as a Cognitive Virus](../ai/community/arxiv-2609-03344.md)
+  - [OKF Agent Memory – Git-native persistent memory for AI coding agents](../ai/community/okf-memory-okf-agent-memory.md)
   - [Visualizing Rust's Vtables: How dyn Trait Works In Memory](../ai/community/visualizing-rust-s-vtables-how-dyn-trait-works-in.md)
 
 ## Unknown Source (type: huggingface)
@@ -26452,4 +26454,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-06T03:54:31.462591+05:30*
+*Index generated on 2026-09-06T10:34:52.617011+05:30*

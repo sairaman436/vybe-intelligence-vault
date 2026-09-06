@@ -1,12 +1,12 @@
 {
-  "total_files": 101962,
+  "total_files": 101965,
   "categories": {
     "agent-frameworks": 4331,
     "agent-instructions": 11,
     "ai-browser-computer-use": 4831,
-    "ai-coding-agents": 4218,
+    "ai-coding-agents": 4219,
     "ai-tools-products": 164,
-    "automation-workflows": 1933,
+    "automation-workflows": 1935,
     "datasets": 15136,
     "evals-and-benchmarks": 21854,
     "frontend-ai-ui": 214,
@@ -26,5 +26,5 @@
     "vector-databases": 8093,
     "webdev-3d-creative": 146
   },
-  "last_updated": "2026-09-06T03:56:51.774368+05:30"
+  "last_updated": "2026-09-06T10:37:10.121438+05:30"
 }

@@ -13,13 +13,14 @@ collected_at: '2026-09-06T03:38:22.667389+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-handles-incidents-engineers-lose-touch-with-the
 first_seen: '2026-09-05T17:24:23.431896+05:30'
 last_seen: '2026-09-06T03:38:22.667389+05:30'
 last_checked: '2026-09-06T03:38:22.667389+05:30'
 health_score: 100
 ---
+
 
 # AI handles incidents, engineers lose touch with their systems
 
