@@ -22592,12 +22592,9 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [AI, Tools and Transformation](../ai/community/ai-tools-and-transformation.md)
-  - [Can AI design circuit boards yet?](../ai/community/can-ai-design-circuit-boards-yet.md)
   - [Chrome again exempts Google from user site data settings](../ai/community/chrome-again-exempts-google-from-user-site-data-se.md)
   - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
-  - [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](../ai/community/finite-time-blowup-for-an-averaged-three-dimension.md)
   - [LLMs as a Cognitive Virus](../ai/community/arxiv-2609-03344.md)
-  - [OKF Agent Memory – Git-native persistent memory for AI coding agents](../ai/community/okf-memory-okf-agent-memory.md)
   - [Visualizing Rust's Vtables: How dyn Trait Works In Memory](../ai/community/visualizing-rust-s-vtables-how-dyn-trait-works-in.md)
 
 ## Unknown Source (type: huggingface)
@@ -23468,8 +23465,8 @@ Resources organized by publisher feed and query sources.
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
-  - [k9cli/video-vec2wav2-tokenizer](../ai/models/huggingface-datasets-k9cli.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
+  - [openai/gsm8k](../ai/models/huggingface-datasets-openai.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [xlangai/ubuntu_osworld_file_cache](../ai/models/huggingface-datasets-xlangai.md)
 
@@ -23690,6 +23687,7 @@ Resources organized by publisher feed and query sources.
   - [1.5.4 Ownership and Use of Stanford Trademarks and Images | Administrative Guide](../ai/resources/1-5-4-ownership-and-use-of-stanford-trademarks-and.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
+  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
   - [2.3 to 2.4 | Dovecot CE](../ai/rag/2-3-to-2-4-dovecot-ce.md)
@@ -25801,6 +25799,7 @@ Resources organized by publisher feed and query sources.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Apache Software Foundation · GitHub](../ai/resources/the-apache-software-foundation-github.md)
   - [The Assembly and Executive Committee – Global Privacy Assembly](../ai/resources/the-assembly-and-executive-committee-global-privac.md)
+  - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
   - [The Compass REST API](../ai/resources/the-compass-rest-api.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer](../ai/resources/the-computer-vision-foundation-a-non-profit-organi.md)
@@ -25863,6 +25862,7 @@ Resources organized by publisher feed and query sources.
   - [Top 23 rag Open-Source Projects | LibHunt](../ai/rag/top-23-rag-open-source-projects-libhunt.md)
   - [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md)
   - [Top Open Source Github Repositories for creating your own RAG | Resemble AI](../ai/rag/top-open-source-github-repositories-for-creating-y.md)
+  - [Top RAG open-source projects (2026) | Trendshift](../ai/rag/top-rag-open-source-projects-2026-trendshift.md)
   - [Top free game assets - itch.io](../ai/rag/top-free-game-assets-itch-io.md)
   - [Top game assets tagged Fonts - itch.io](../ai/resources/top-game-assets-tagged-fonts-itch-io.md)
   - [Top game assets tagged No AI - itch.io](../ai/rag/top-game-assets-tagged-no-ai-itch-io.md)
@@ -25951,10 +25951,12 @@ Resources organized by publisher feed and query sources.
   - [Unity Issue Tracker](../ai/rag/unity-issue-tracker.md)
   - [Unity: Develop, Deploy, and Grow | The World's Leading Game Engine](../ai/rag/unity-develop-deploy-and-grow-the-world-s-leading.md)
   - [Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere” | MIT News | Massachuse](../ai/rag/universal-ai-is-a-pathway-to-ai-fluency-thats-acce.md)
+  - [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md)
   - [University Audit Office](../ai/resources/university-audit-office.md)
   - [University Corporation for Atmospheric Research | University Corporation for Atmospheric Research](../ai/resources/university-corporation-for-atmospheric-research-un.md)
   - [University of California | Office of The President](../ai/resources/university-of-california-office-of-the-president.md)
   - [Unlimited, Flexible & Group Phone Plans & Rates - Google Fi Wireless](../ai/rag/unlimited-flexible-group-phone-plans-rates-google.md)
+  - [Unlocking the power of unstructured data with RAG - The GitHub Blog](../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md)
   - [UnoCSS: The instant on-demand Atomic CSS engine](../ai/resources/unocss-the-instant-on-demand-atomic-css-engine.md)
   - [Unstructured Data & AI Engineering Blog | Unstructured](../ai/rag/unstructured-data-ai-engineering-blog-unstructured.md)
   - [Unstructured Data Platform for GenAI | Unstructured](../ai/rag/unstructured-data-platform-for-genai-unstructured.md)
@@ -26454,4 +26456,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-06T10:34:52.617011+05:30*
+*Index generated on 2026-09-06T18:00:33.104468+05:30*

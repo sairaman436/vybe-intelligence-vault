@@ -39,7 +39,7 @@ selection_reason:
 
 ## Summary
 
-*   Leading RAG frameworks like LangChain, LlamaIndex, Dify, and
+*   RAG remains a critical technique in 2026 for enhancing LL
 
 ## Use Cases
 

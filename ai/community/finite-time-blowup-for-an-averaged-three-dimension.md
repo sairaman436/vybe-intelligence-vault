@@ -14,13 +14,14 @@ collected_at: '2026-09-06T10:18:36.247189+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:finite-time-blowup-for-an-averaged-three-dimension
 first_seen: '2026-09-06T03:38:20.467114+05:30'
 last_seen: '2026-09-06T10:18:36.247189+05:30'
 last_checked: '2026-09-06T10:18:36.247189+05:30'
 health_score: 100
 ---
+
 
 # Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)
 

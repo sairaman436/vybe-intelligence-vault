@@ -13,13 +13,14 @@ collected_at: '2026-09-06T10:18:37.385686+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:can-ai-design-circuit-boards-yet
 first_seen: '2026-09-05T03:56:42.687756+05:30'
 last_seen: '2026-09-06T10:18:37.385686+05:30'
 last_checked: '2026-09-06T10:18:37.385686+05:30'
 health_score: 100
 ---
+
 
 # Can AI design circuit boards yet?
 

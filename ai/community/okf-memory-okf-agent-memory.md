@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:okf-memory/okf-agent-memory
 first_seen: '2026-09-06T10:18:36.971608+05:30'
 last_seen: '2026-09-06T10:18:36.971608+05:30'
 last_checked: '2026-09-06T10:18:36.971608+05:30'
 health_score: 100
 ---
+
 
 # OKF Agent Memory – Git-native persistent memory for AI coding agents
 
